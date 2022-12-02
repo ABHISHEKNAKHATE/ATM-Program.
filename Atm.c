@@ -32,7 +32,7 @@ int main()
 			break;
 			
 		case 'b':
-			printf("Amount in your account=%f,x");
+			printf("Amount in your account=%f",x);
 			break;
 			
 		default:
